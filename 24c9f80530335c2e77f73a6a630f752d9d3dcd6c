@@ -1,0 +1,36 @@
+codebase_rag/logs.py
+  94167d282e468e48 645-648
+codebase_rag/mcp/__init__.py
+  94167d282e468e48 1-2
+codebase_rag/config.py
+  94167d282e468e48 270-273
+codebase_rag/mcp/server.py
+  94167d282e468e48 140,164-210,214
+codebase_rag/constants.py
+  94167d282e468e48 2399-2404,2410-2411
+codebase_rag/cli_help.py
+  94167d282e468e48 84-91
+codebase_rag/cli.py
+  94167d282e468e48 366-368,371-372,374-378,380
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.10",
+  "base_commit_sha": "24c9f80530335c2e77f73a6a630f752d9d3dcd6c",
+  "prompts": {
+    "94167d282e468e48": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9a5acf6f-afa1-4744-8ad5-6a0a177435be",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "liangliang.dai <liangliang.dai@trip.com>",
+      "messages": [],
+      "total_additions": 115,
+      "total_deletions": 27,
+      "accepted_lines": 87,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/b65e0cfc011fdb233b7aa5ab0545cbd70cbb2e6f717d24a43d1b32941073b53e"
+    }
+  }
+}
