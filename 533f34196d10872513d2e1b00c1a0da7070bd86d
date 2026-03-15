@@ -1,0 +1,24 @@
+codebase_rag/mcp/server.py
+  94167d282e468e48 173
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.10",
+  "base_commit_sha": "533f34196d10872513d2e1b00c1a0da7070bd86d",
+  "prompts": {
+    "94167d282e468e48": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9a5acf6f-afa1-4744-8ad5-6a0a177435be",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "liangliang.dai <liangliang.dai@trip.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 3,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/a699b86d10b00837a4b69e7654f493b88bf24d4a26be26fb8ab138aba827b7c3"
+    }
+  }
+}
